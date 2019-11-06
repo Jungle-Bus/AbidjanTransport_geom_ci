@@ -86,3 +86,16 @@ Line:relation:10246444,bus 53 : Gare Campus ↔ Gonzagueville,53,,SOTRA,monbus,b
 Line:relation:10246667,bus 201 : PK 18 (Abobo) ↔ Hotel de Ville,201,,SOTRA,Express,bus
 Line:relation:10246746,bus 203 : Gare Sud ↔ Gare Abobo Sogefiha,203,,SOTRA,Express,bus
 Line:relation:10246874,bus 52 : Abobo Sagbé ↔ Campus Cocody,52,,SOTRA,monbus,bus
+Line:relation:10247373,bus 61 : Mairie d'Abobo ↔ Ebimpé,61,,SOTRA,monbus,bus
+Line:relation:10247522,bus 68 : Anani ↔ Gare Koumassi,68,,SOTRA,monbus,bus
+Line:relation:10247975,bus 205 : Gare Sud ↔ Djibi,205,,SOTRA,Express,bus
+Line:relation:10248235,bus 03 : Gare Nord ↔ Marcory Anoumabo Aliodan,03,,SOTRA,monbus,bus
+Line:relation:10256167,bus 51 : Abobo Sagbé ↔ Cité Administrative,51,,SOTRA,monbus,bus
+Line:relation:10256311,bus 46 : Yopougon Sideci ↔ Plateau Cité Administrative,46,,SOTRA,monbus,bus
+Line:relation:10256956,bus 17 : Port de pêche ↔ Anani,17,,SOTRA,monbus,bus
+Line:relation:10257679,bus 23: Port-Bouët Vridi Canal ↔ Gare Koumassi,23,,SOTRA,monbus,bus
+Line:relation:10260743,bus 78 : M'badon ↔ Gare Nord,78,,SOTRA,monbus,bus
+Line:relation:10261222,bus 87 : La Vie ↔ Bingerville,87,,SOTRA,monbus,bus
+Line:relation:10261633,bus 28 : Gare Sud ↔ Riviera 2,28,,SOTRA,monbus,bus
+Line:relation:10261637,bus 21 : CHU Treichville ↔ Dépôt Cocody,21,,SOTRA,monbus,bus
+Line:relation:10261981,bus 710 : Abatta Village ↔ La Vie,710,,SOTRA,Wibus,bus
