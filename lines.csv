@@ -23,7 +23,7 @@ Line:relation:10190159,bus 14 : Gare Marcory ↔ Gare Williamsville,14,,SOTRA,mo
 Line:relation:10190354,Bus 64 : Gare Nord SOTRA Adjamé ↔ Gare Blockauss,64,,SOTRA,monbus,bus
 Line:relation:10191924,Bus 49 : Gare SOTRA Abobo Sogefiha ↔ Gare Campus Cocody,49,,SOTRA,monbus,bus
 Line:relation:10192143,bus 02 : Gare Marcory ↔ Cité Fairmont,02,,SOTRA,monbus,bus
-Line:relation:10192153,bus 20 : Gare Sud ↔ Dépôt Yopougon,20,,SOTRA,monbus,bus
+Line:relation:10192153,bus 20 : Gare Sud ↔ Yopougon Micao,20,,SOTRA,monbus,bus
 Line:relation:10199868,bus 39 : Gare Sud ↔ Niangon Sud à droite,39,,SOTRA,monbus,bus
 Line:relation:10200077,bus 85 : Yopougon Kouté ↔ Campus Cocody,85,,SOTRA,monbus,bus
 Line:relation:10201145,bus 07: Gare Marcory ↔ Terminus Cité Vridi,07,,SOTRA,monbus,bus
@@ -99,3 +99,31 @@ Line:relation:10261222,bus 87 : La Vie ↔ Bingerville,87,,SOTRA,monbus,bus
 Line:relation:10261633,bus 28 : Gare Sud ↔ Riviera 2,28,,SOTRA,monbus,bus
 Line:relation:10261637,bus 21 : CHU Treichville ↔ Dépôt Cocody,21,,SOTRA,monbus,bus
 Line:relation:10261981,bus 710 : Abatta Village ↔ La Vie,710,,SOTRA,Wibus,bus
+Line:relation:10265827,bus 18 : Gare Sud Plateau ↔ Centre Pilote Port-Bouët,18,,SOTRA,monbus,bus
+Line:relation:10265924,bus 41 : Adjamé Liberté ↔ M'pouto,41,,SOTRA,monbus,bus
+Line:relation:10266011,bus 13 : Gare Nord ↔ Gare Koumassi,13,,SOTRA,monbus,bus
+Line:relation:10266646,bus 26 : Gare Nord ↔ Gare Koumassi,26,,SOTRA,monbus,bus
+Line:relation:10266864,bus 31 : Marcory Alliodan ↔ Commissariat Port,31,,SOTRA,monbus,bus
+Line:relation:10267036,bus 32 : Akromiambla ↔ Commissariat Port,32,,SOTRA,monbus,bus
+Line:relation:10270241,bus 33 : Koumassi Akromiambla ↔ Gare Sud Plateau,33,,SOTRA,monbus,bus
+Line:relation:10270789,bus 13 : Adjamé Liberté ↔ Hôpital de koumassi,13,,SOTRA,monbus,bus
+Line:relation:10270989,bus 34 : Cité Administrative ↔ Yopougon Gesco,34,,SOTRA,monbus,bus
+Line:relation:10271088,bus 50 : Gare Nord ↔ Gare Koumassi,50,,SOTRA,monbus,bus
+Line:relation:10271257,bus 210 : Gare Sud ↔ Cocody SCI Les Rosiers,210,,SOTRA,Express,bus
+Line:relation:10279858,bus 38 : Yopougon Koweït ↔ Yopougon Micao,38,,SOTRA,Wibus,bus
+Line:relation:10280602,bus 726 : Yopougon Attié - Amondji ↔ Gare Sud,726,,SOTRA,monbus / Navette,bus
+Line:relation:10281561,bus 715 : Grand carrefour Koumassi ↔ Sococe Deux plateaux,715,,SOTRA,monbus / Navette,bus
+Line:relation:10282981,bus 716 : Grand carrefour Koumassi ↔ Carrefour Palmeraie (Riviera III),716,,SOTRA,monbus / Navette,bus
+Line:relation:10283602,bus 717 : Anani ↔ Hôtel de ville,717,,SOTRA,monbus / Navette,bus
+Line:relation:10283796,bus 718 : Adjamé Liberté ↔ Gonzagueville,718,,SOTRA,monbus / Navette,bus
+Line:relation:10285983,bus 729 : Yopougon Koweït ↔ Carrefour Palmeraie (Riviera III),729,,SOTRA,monbus / Navette,bus
+Line:relation:10286236,bus 212 : Gare Sud ↔ Niangon Sud à droite,212,,SOTRA,Express,bus
+Line:relation:10286387,bus 770 : Akeikoi Abobo ↔ CHU Treich,770,,SOTRA,monbus / Navette,bus
+Line:relation:10286458,bus 211 : Cité Administrative ↔ Terminus Gonzagueville,211,,SOTRA,Express,bus
+Line:relation:10286586,bus 772 : PK 18 ↔ Vridi Iran,772,,SOTRA,monbus / Navette,bus
+Line:relation:10286821,bus 721 : CHU de Treichville ↔ Riviera Palmeraie,721,,SOTRA,monbus / Navette,bus
+Line:relation:10289376,bus 77 : Abobo Gendarmerie ↔ CHU Youpougon,77,,SOTRA,monbus,bus
+Line:relation:10289749,bus 712 : Amondji ↔ Grand carrefour Koumassi,712,,SOTRA,monbus / Navette,bus
+Line:relation:10289989,bus 710 : Feh Kesse ↔ La Vie,710,,SOTRA,Wibus,bus
+Line:relation:10290233,bus 708 : La Vie ↔ Plateau Gare Sud,708,,SOTRA,Wibus,bus
+Line:relation:10290876,bus 705 : Terminus 81/82 ↔ Riviera 2,705,,SOTRA,Wibus,bus
