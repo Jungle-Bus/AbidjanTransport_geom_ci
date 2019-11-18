@@ -127,3 +127,9 @@ Line:relation:10289749,bus 712 : Amondji ↔ Grand carrefour Koumassi,712,,SOTRA
 Line:relation:10289989,bus 710 : Feh Kesse ↔ La Vie,710,,SOTRA,Wibus,bus
 Line:relation:10290233,bus 708 : La Vie ↔ Plateau Gare Sud,708,,SOTRA,Wibus,bus
 Line:relation:10290876,bus 705 : Terminus 81/82 ↔ Riviera 2,705,,SOTRA,Wibus,bus
+Line:relation:10291228,bus 206 : Saint André ↔ Hôtel de ville,206,,SOTRA,Express,bus
+Line:relation:10291303,bus 86 : Gare Nord ↔ Nouveau Camp Akouedo,86,,SOTRA,monbus,bus
+Line:relation:10300549,bus 616 : Abatta Village ↔ Gare Nord Adjamé,616,,SOTRA,monbus / Navette,bus
+Line:relation:10301060,bus 17 : Gonzagueville ↔ Vridi Canal,17,,SOTRA,monbus,bus
+Line:relation:10301478,Bus 29 : Gare Nord ↔ Port-Bouet derrrière Warf,29,,SOTRA,monbus,bus
+Line:relation:10301548,Bus 48 : Saint jean ↔ Abobo Gendarmerie,48,,SOTRA,monbus,bus
