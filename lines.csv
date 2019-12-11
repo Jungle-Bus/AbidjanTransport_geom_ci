@@ -1,5 +1,5 @@
 line_id,name,code,colour,operator,network,mode
-Line:relation:5985016,Bus Ligne 06,06,,Société des transports abidjanais (SOTRA) S.A.,SOTRA monbus,bus
+Line:relation:5985016,bus 06 : Terminus Aéroport ↔ Gare Sud Plateau,06,,SOTRA,monbus,bus
 Line:relation:9589447,Bus 15 : Gare SOTRA Abobo Sogefiha ↔ Gare Sud Plateau,15,,SOTRA,monbus,bus
 Line:relation:9892943,Aqualines ligne A : Abobodoumé => Plateau => Treichville => Abobodoumé,A,,Aqualines,Aqualines,ferry
 Line:relation:10063025,Ligne 701: 81/82 - Orca Deco,701,,SOTRA,Wibus,bus
@@ -134,3 +134,8 @@ Line:relation:10301060,bus 17 : Gonzagueville ↔ Vridi Canal,17,,SOTRA,monbus,b
 Line:relation:10301478,Bus 29 : Gare Nord ↔ Port-Bouet derrrière Warf,29,,SOTRA,monbus,bus
 Line:relation:10301548,Bus 48 : Saint jean ↔ Abobo Gendarmerie,48,,SOTRA,monbus,bus
 Line:relation:10361922,bus 771 : Yopougon Niangon ↔ Vridi Iran,771,,SOTRA,monbus / Navette,bus
+Line:relation:10391644,bateau-bus 900 : Yopougon (Abobo Doumé) ↔ Treichville,900,,STL,STL,ferry
+Line:relation:10394941,bateau-bus 901 : Treichville ↔ Koumassi,901,,STL,STL,ferry
+Line:relation:10395065,bateau-bus 501 : Yopougon (Abobo Doumé) ↔ Treichville,501,,SOTRA,monbato,ferry
+Line:relation:10395136,bateau bus 503 : Yopougon (Abobo Doumé) ↔ Plateau,503,,SOTRA,monbato,ferry
+Line:relation:10395178,bateau-bus 502 : Treichville ↔ Blockauss,502,,SOTRA,monbato,ferry
