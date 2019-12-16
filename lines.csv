@@ -97,7 +97,7 @@ Line:relation:10257679,bus 23: Port-Bouët Vridi Canal ↔ Gare Koumassi,23,,SOT
 Line:relation:10260743,bus 78 : M'badon ↔ Gare Nord,78,,SOTRA,monbus,bus
 Line:relation:10261222,bus 87 : La Vie ↔ Bingerville,87,,SOTRA,monbus,bus
 Line:relation:10261633,bus 28 : Gare Sud ↔ Riviera 2,28,,SOTRA,monbus,bus
-Line:relation:10261637,bus 21 : CHU Treichville ↔ Dépôt Cocody,21,,SOTRA,monbus,bus
+Line:relation:10261637,bus 21 : CHU de Treichville ↔ Dépôt Cocody,21,,SOTRA,monbus,bus
 Line:relation:10261981,bus 710 : Abatta Village ↔ La Vie,710,,SOTRA,Wibus,bus
 Line:relation:10265827,bus 18 : Gare Sud Plateau ↔ Centre Pilote Port-Bouët,18,,SOTRA,monbus,bus
 Line:relation:10265924,bus 41 : Adjamé Liberté ↔ M'pouto,41,,SOTRA,monbus,bus
@@ -118,10 +118,10 @@ Line:relation:10283602,bus 717 : Anani ↔ Hôtel de ville,717,,SOTRA,monbus / N
 Line:relation:10283796,bus 718 : Adjamé Liberté ↔ Gonzagueville,718,,SOTRA,monbus / Navette,bus
 Line:relation:10285983,bus 729 : Yopougon Koweït ↔ Carrefour Palmeraie (Riviera III),729,,SOTRA,monbus / Navette,bus
 Line:relation:10286236,bus 212 : Gare Sud ↔ Niangon Sud à droite,212,,SOTRA,Express,bus
-Line:relation:10286387,bus 770 : Akeikoi Abobo ↔ CHU Treich,770,,SOTRA,monbus / Navette,bus
+Line:relation:10286387,bus 770 : Akeikoi Abobo ↔ CHU Treichville,770,,SOTRA,monbus / Navette,bus
 Line:relation:10286458,bus 211 : Cité Administrative ↔ Terminus Gonzagueville,211,,SOTRA,Express,bus
 Line:relation:10286586,bus 772 : PK 18 ↔ Vridi Iran,772,,SOTRA,monbus / Navette,bus
-Line:relation:10286821,bus 721 : CHU de Treichville ↔ Riviera Palmeraie,721,,SOTRA,monbus / Navette,bus
+Line:relation:10286821,bus 721 : CHU Treichville ↔ Riviera Palmeraie,721,,SOTRA,monbus / Navette,bus
 Line:relation:10289376,bus 77 : Abobo Gendarmerie ↔ CHU Youpougon,77,,SOTRA,monbus,bus
 Line:relation:10289749,bus 712 : Amondji ↔ Grand carrefour Koumassi,712,,SOTRA,monbus / Navette,bus
 Line:relation:10289989,bus 710 : Feh Kesse ↔ La Vie,710,,SOTRA,Wibus,bus
@@ -139,3 +139,34 @@ Line:relation:10394941,bateau-bus 901 : Treichville ↔ Koumassi,901,,STL,STL,fe
 Line:relation:10395065,bateau-bus 501 : Yopougon (Abobo Doumé) ↔ Treichville,501,,SOTRA,monbato,ferry
 Line:relation:10395136,bateau bus 503 : Yopougon (Abobo Doumé) ↔ Plateau,503,,SOTRA,monbato,ferry
 Line:relation:10395178,bateau-bus 502 : Treichville ↔ Blockauss,502,,SOTRA,monbato,ferry
+Line:relation:10397090,bus 775 : CHU Treichville ↔ Angré Chateau,775,,SOTRA,monbus / Navette,bus
+Line:relation:10397199,bus 773 : Bingerville ↔ Gare Sud,773,,SOTRA,monbus / Navette,bus
+Line:relation:10402404,gbaka 1 : Adjamé Liberté ↔ Cocody Riviera 2,1,,divers,Gbaka d'Adjamé,bus
+Line:relation:10402518,gbaka 1 : Adjamé gare en haut ↔ Cocody Anono,1,,divers,Gbaka d'Adjamé,bus
+Line:relation:10402749,gbaka 1 : Adjamé gare en haut ↔ Bingerville,1,,divers,Gbaka d'Adjamé,bus
+Line:relation:10403055,gbaka 1 : Adjamé gare en haut ↔ Cocody Riviera M'pouto,1,,divers,Gbaka d'Adjamé,bus
+Line:relation:10403061,gbaka 1 : Adjamé Texaco ↔ Yopougon Kowët,1,,divers,Gbaka de Yopougon,bus
+Line:relation:10404238,gbaka 1 : Adjamé gare en haut ↔ Cocody Akouédo,1,,divers,Gbaka d'Adjamé,bus
+Line:relation:10406129,gbaka 1 : Treichville Gare de Bassam ↔ Port-Bouët Gonzagueville,1,,divers,Gbaka de Treichville,bus
+Line:relation:10406387,gbaka 1 : Yopougon Palais ↔ Adjamé Renault,1,,divers,Gbaka d'Adjamé,bus
+Line:relation:10406547,gbaka 2 : Yopougon Niangon Terminus 27 ↔ Adjamé Liberté,2,,divers,Gbaka d'Adjamé,bus
+Line:relation:10406621,gbaka 1 : Adjamé Liberté ↔ Koumassi,1,,divers,Gbaka d'Adjamé,bus
+Line:relation:10406865,gbaka 1 : Adjamé Liberté ↔ Yopougon Palais,1,,divers,Gbaka d'Adjamé,bus
+Line:relation:10407729,gbaka 1 : Adjamé Texaco ↔ Yopougon Camp Militaire,1,,divers,Gbaka d'Adjamé,bus
+Line:relation:10407850,gbaka 1 : Yopougon Carrefour Académie ↔ Adjamé Liberté,1,,divers,Gbaka d'Adjamé,bus
+Line:relation:10408669,woro woro 1 : Riviera 2 ↔ Angré Terminus 81-82,1,,divers,Woro-woro de Cocody,bus
+Line:relation:10408694,woro woro 2 : Riviera 2 ↔ Angré 22ème,2,,divers,Woro-woro de Cocody,bus
+Line:relation:10408727,woro woro 3 : Riviera 2 ↔ Attoban Camp,3,,divers,Woro-woro de Cocody,bus
+Line:relation:10408771,woro woro 16 : Treichville Gare de Bassam ↔ Treichville Gare Bateau-bus,16,,divers,Woro-woro de Treichville,bus
+Line:relation:10408836,woro woro 17 : Yopougon Gabriel gare ↔ Yopougon Micao,17,,divers,Woro-woro de yopougon,bus
+Line:relation:10408939,bus 701 : Terminus 81/82 ↔ Orca Déco,701,,SOTRA,Wibus,bus
+Line:relation:10409494,gbaka 3 : Adjamé Renault ↔ Abobo Gare Mairie,3,,divers,Gbaka d'Adjamé,bus
+Line:relation:10409714,gbaka 1 : Adjamé Liberté ↔ Carrefour Lokoa,1,,divers,Gbaka d'Adjamé,bus
+Line:relation:10410754,gbaka 1 : Adjamé Liberté ↔ Bingerville,1,,divers,Gbaka d'Adjamé,bus
+Line:relation:10411047,gbaka 1 : Yopougon gare Gesco ↔ Adjamé Agban,1,,divers,Gbaka d'Adjamé,bus
+Line:relation:10412424,woro woro 5 : Zoo ↔ Vallon,5,,divers,Woro-woro de Cocody,bus
+Line:relation:10412781,woro woro 12 : Zoo ↔ Sococe Deux plateaux,12,,divers,Woro-woro de Cocody,bus
+Line:relation:10413050,woro woro 13 : Abobo Azur Mobil ↔ Nouveau Chu Angré,13,,divers,Woro-woro de Cocody,bus
+Line:relation:10413162,woro woro 14 : Abobo Azur Mobil ↔ 8ème Tranche CNPS en haut,14,,divers,Woro-woro de Cocody,bus
+Line:relation:10413253,woro woro 15 : Adjamé Liberté ↔ Adjamé Mairie Dallas,15,,divers,Woro-woro d'Adjamé,bus
+Line:relation:10413686,woro woro 9 : Mobile Azur ↔ Angré Château,9,,divers,Woro-woro de Cocody,bus
