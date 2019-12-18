@@ -2,12 +2,11 @@ line_id,name,code,colour,operator,network,mode
 Line:relation:5985016,bus 06 : Terminus Aéroport ↔ Gare Sud Plateau,06,,SOTRA,monbus,bus
 Line:relation:9589447,Bus 15 : Gare SOTRA Abobo Sogefiha ↔ Gare Sud Plateau,15,,SOTRA,monbus,bus
 Line:relation:9892943,Aqualines ligne A : Abobodoumé => Plateau => Treichville => Abobodoumé,A,,Aqualines,Aqualines,ferry
-Line:relation:10063025,Ligne 701: 81/82 - Orca Deco,701,,SOTRA,Wibus,bus
 Line:relation:10087961,bus 91 : Gare Sud ↔ Liberté Adjamé,91,,SOTRA,monbus,bus
 Line:relation:10168184,Ligne 704 Chateau d'eau d'Angré - Blockhauss,704,,SOTRA,Wibus,bus
 Line:relation:10173635,bus 37: Gare Sud↔Yopougon Camp Militaire,37,,SOTRA,monbus,bus
 Line:relation:10179006,gbaka : Adjamé Liberté ↔ Treichville Gare de Bassam,,,divers,Gbaka d'Adjamé,bus
-Line:relation:10179435,gbaka : Adjamé Liberté ↔ Abobo Gare Mairie,,,divers,Gbaka d'Abobo,bus
+Line:relation:10179435,gbaka : Adjamé ↔ Abobo Gare Mairie,,,divers,Gbaka d'Abobo,bus
 Line:relation:10184139,gbaka : Adjamé Liberté ↔ Abobo Gare Mairie,,,divers,Gbaka d'Abobo,bus
 Line:relation:10184730,gbaka : Abobo Gare Mairie ↔Akeïkoi Village,,,divers,Gbaka d'Abobo,bus
 Line:relation:10184964,gbaka : Abobo Gare Mairie ↔ Kennedy Marché,,,divers,Gbaka d'Abobo,bus
@@ -170,3 +169,6 @@ Line:relation:10413050,woro woro 13 : Abobo Azur Mobil ↔ Nouveau Chu Angré,13
 Line:relation:10413162,woro woro 14 : Abobo Azur Mobil ↔ 8ème Tranche CNPS en haut,14,,divers,Woro-woro de Cocody,bus
 Line:relation:10413253,woro woro 15 : Adjamé Liberté ↔ Adjamé Mairie Dallas,15,,divers,Woro-woro d'Adjamé,bus
 Line:relation:10413686,woro woro 9 : Mobile Azur ↔ Angré Château,9,,divers,Woro-woro de Cocody,bus
+Line:relation:10416470,Aqualines ligne A : Abobodoumé => Plateau => Treichville => Abobodoumé,A,,Aqualines,Aqualines,ferry
+Line:relation:10416510,woro woro : Palmeraie ↔ Les Rosiers,,,divers,Woro-woro de Cocody,bus
+Line:relation:10416736,woro woro : Carrefour 9km ↔ Palmeraie SIPIM 4,,,divers,Woro-woro de Cocody,bus
