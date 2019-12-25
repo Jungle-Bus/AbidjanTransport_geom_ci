@@ -1,7 +1,6 @@
 line_id,name,code,colour,operator,network,mode
 Line:relation:5985016,bus 06 : Terminus Aéroport ↔ Gare Sud Plateau,06,,SOTRA,monbus,bus
 Line:relation:9589447,Bus 15 : Gare SOTRA Abobo Sogefiha ↔ Gare Sud Plateau,15,,SOTRA,monbus,bus
-Line:relation:9892943,Aqualines ligne A : Abobodoumé => Plateau => Treichville => Abobodoumé,A,,Aqualines,Aqualines,ferry
 Line:relation:10087961,bus 91 : Gare Sud ↔ Liberté Adjamé,91,,SOTRA,monbus,bus
 Line:relation:10168184,Ligne 704 Chateau d'eau d'Angré - Blockhauss,704,,SOTRA,Wibus,bus
 Line:relation:10173635,bus 37: Gare Sud↔Yopougon Camp Militaire,37,,SOTRA,monbus,bus
@@ -140,35 +139,55 @@ Line:relation:10395136,bateau bus 503 : Yopougon (Abobo Doumé) ↔ Plateau,503,
 Line:relation:10395178,bateau-bus 502 : Treichville ↔ Blockauss,502,,SOTRA,monbato,ferry
 Line:relation:10397090,bus 775 : CHU Treichville ↔ Angré Chateau,775,,SOTRA,monbus / Navette,bus
 Line:relation:10397199,bus 773 : Bingerville ↔ Gare Sud,773,,SOTRA,monbus / Navette,bus
-Line:relation:10402404,gbaka 1 : Adjamé Liberté ↔ Cocody Riviera 2,1,,divers,Gbaka d'Adjamé,bus
-Line:relation:10402518,gbaka 1 : Adjamé gare en haut ↔ Cocody Anono,1,,divers,Gbaka d'Adjamé,bus
-Line:relation:10402749,gbaka 1 : Adjamé gare en haut ↔ Bingerville,1,,divers,Gbaka d'Adjamé,bus
-Line:relation:10403055,gbaka 1 : Adjamé gare en haut ↔ Cocody Riviera M'pouto,1,,divers,Gbaka d'Adjamé,bus
-Line:relation:10403061,gbaka 1 : Adjamé Texaco ↔ Yopougon Kowët,1,,divers,Gbaka de Yopougon,bus
-Line:relation:10404238,gbaka 1 : Adjamé gare en haut ↔ Cocody Akouédo,1,,divers,Gbaka d'Adjamé,bus
+Line:relation:10402404,gbaka : Adjamé Liberté ↔ Cocody Riviera 2,,,divers,Gbaka d'Adjamé,bus
+Line:relation:10402518,gbaka : Adjamé gare en haut ↔ Cocody Anono,,,divers,Gbaka d'Adjamé,bus
+Line:relation:10402749,gbaka : Adjamé gare en haut ↔ Bingerville,,,divers,Gbaka d'Adjamé,bus
+Line:relation:10403055,gbaka : Adjamé gare en haut ↔ Cocody Riviera M'pouto,,,divers,Gbaka d'Adjamé,bus
+Line:relation:10403061,gbaka : Adjamé Texaco ↔ Yopougon Kowët,,,divers,Gbaka de Yopougon,bus
+Line:relation:10404238,gbaka : Adjamé gare en haut ↔ Cocody Akouédo,,,divers,Gbaka d'Adjamé,bus
 Line:relation:10406129,gbaka 1 : Treichville Gare de Bassam ↔ Port-Bouët Gonzagueville,1,,divers,Gbaka de Treichville,bus
-Line:relation:10406387,gbaka 1 : Yopougon Palais ↔ Adjamé Renault,1,,divers,Gbaka d'Adjamé,bus
-Line:relation:10406547,gbaka 2 : Yopougon Niangon Terminus 27 ↔ Adjamé Liberté,2,,divers,Gbaka d'Adjamé,bus
-Line:relation:10406621,gbaka 1 : Adjamé Liberté ↔ Koumassi,1,,divers,Gbaka d'Adjamé,bus
-Line:relation:10406865,gbaka 1 : Adjamé Liberté ↔ Yopougon Palais,1,,divers,Gbaka d'Adjamé,bus
-Line:relation:10407729,gbaka 1 : Adjamé Texaco ↔ Yopougon Camp Militaire,1,,divers,Gbaka d'Adjamé,bus
-Line:relation:10407850,gbaka 1 : Yopougon Carrefour Académie ↔ Adjamé Liberté,1,,divers,Gbaka d'Adjamé,bus
+Line:relation:10406387,gbaka : Yopougon Palais ↔ Adjamé Renault,,,divers,Gbaka d'Adjamé,bus
+Line:relation:10406547,gbaka : Yopougon Niangon Terminus 27 ↔ Adjamé Liberté,,,divers,Gbaka d'Adjamé,bus
+Line:relation:10406621,gbaka : Adjamé Liberté ↔ Koumassi,,,divers,Gbaka d'Adjamé,bus
+Line:relation:10406865,gbaka : Adjamé Liberté ↔ Yopougon Palais,,,divers,Gbaka d'Adjamé,bus
+Line:relation:10407729,gbaka : Adjamé Texaco ↔ Yopougon Camp Militaire,,,divers,Gbaka d'Adjamé,bus
+Line:relation:10407850,gbaka : Yopougon Carrefour Académie ↔ Adjamé Liberté,,,divers,Gbaka d'Adjamé,bus
 Line:relation:10408669,woro woro 1 : Riviera 2 ↔ Angré Terminus 81-82,1,,divers,Woro-woro de Cocody,bus
 Line:relation:10408694,woro woro 2 : Riviera 2 ↔ Angré 22ème,2,,divers,Woro-woro de Cocody,bus
 Line:relation:10408727,woro woro 3 : Riviera 2 ↔ Attoban Camp,3,,divers,Woro-woro de Cocody,bus
 Line:relation:10408771,woro woro 16 : Treichville Gare de Bassam ↔ Treichville Gare Bateau-bus,16,,divers,Woro-woro de Treichville,bus
 Line:relation:10408836,woro woro 17 : Yopougon Gabriel gare ↔ Yopougon Micao,17,,divers,Woro-woro de yopougon,bus
 Line:relation:10408939,bus 701 : Terminus 81/82 ↔ Orca Déco,701,,SOTRA,Wibus,bus
-Line:relation:10409494,gbaka 3 : Adjamé Renault ↔ Abobo Gare Mairie,3,,divers,Gbaka d'Adjamé,bus
-Line:relation:10409714,gbaka 1 : Adjamé Liberté ↔ Carrefour Lokoa,1,,divers,Gbaka d'Adjamé,bus
-Line:relation:10410754,gbaka 1 : Adjamé Liberté ↔ Bingerville,1,,divers,Gbaka d'Adjamé,bus
-Line:relation:10411047,gbaka 1 : Yopougon gare Gesco ↔ Adjamé Agban,1,,divers,Gbaka d'Adjamé,bus
-Line:relation:10412424,woro woro 5 : Zoo ↔ Vallon,5,,divers,Woro-woro de Cocody,bus
-Line:relation:10412781,woro woro 12 : Zoo ↔ Sococe Deux plateaux,12,,divers,Woro-woro de Cocody,bus
-Line:relation:10413050,woro woro 13 : Abobo Azur Mobil ↔ Nouveau Chu Angré,13,,divers,Woro-woro de Cocody,bus
-Line:relation:10413162,woro woro 14 : Abobo Azur Mobil ↔ 8ème Tranche CNPS en haut,14,,divers,Woro-woro de Cocody,bus
+Line:relation:10409494,gbaka : Adjamé Renault ↔ Abobo Gare Mairie,,,divers,Gbaka d'Adjamé,bus
+Line:relation:10409714,gbaka : Adjamé Liberté ↔ Carrefour Lokoa,,,divers,Gbaka d'Adjamé,bus
+Line:relation:10410754,gbaka : Adjamé Liberté ↔ Bingerville,,,divers,Gbaka d'Adjamé,bus
+Line:relation:10411047,gbaka : Yopougon gare Gesco ↔ Adjamé Agban,,,divers,Gbaka d'Adjamé,bus
+Line:relation:10412424,woro woro : Zoo ↔ Vallon,,,divers,Woro-woro de Cocody,bus
+Line:relation:10412781,woro woro : Zoo ↔ Sococe Deux plateaux,,,divers,Woro-woro de Cocody,bus
+Line:relation:10413050,woro woro : Abobo Azur Mobil ↔ Nouveau Chu Angré,,,divers,Woro-woro de Cocody,bus
+Line:relation:10413162,woro woro : Abobo Azur Mobil ↔ 8ème Tranche CNPS en haut,,,divers,Woro-woro de Cocody,bus
 Line:relation:10413253,woro woro 15 : Adjamé Liberté ↔ Adjamé Mairie Dallas,15,,divers,Woro-woro d'Adjamé,bus
-Line:relation:10413686,woro woro 9 : Mobile Azur ↔ Angré Château,9,,divers,Woro-woro de Cocody,bus
-Line:relation:10416470,Aqualines ligne A : Abobodoumé => Plateau => Treichville => Abobodoumé,A,,Aqualines,Aqualines,ferry
+Line:relation:10413686,woro woro : Abobo Azur Mobil ↔ Angré Château,,,divers,Woro-woro de Cocody,bus
 Line:relation:10416510,woro woro : Palmeraie ↔ Les Rosiers,,,divers,Woro-woro de Cocody,bus
 Line:relation:10416736,woro woro : Carrefour 9km ↔ Palmeraie SIPIM 4,,,divers,Woro-woro de Cocody,bus
+Line:relation:10430127,gbaka : Abobo Gare ↔ Ndotre,,,divers,Gbaka d'Adjamé,bus
+Line:relation:10430197,woro woro : Abobo Azur Mobil ↔ Cocody gare Saint Jean,,,divers,Woro-woro de Cocody,bus
+Line:relation:10430593,woro woro : Zoo ↔ Aghien,,,divers,Woro-woro de Cocody,bus
+Line:relation:10430627,gbaka : Abobo Gendarmerie ↔ Yopougon Carrefour Zone,,,divers,Gbaka d'Adjamé,bus
+Line:relation:10431102,woro woro : Zoo ↔ Attoban,,,divers,Woro-woro de Cocody,bus
+Line:relation:10434093,bus 728 : Ecole de police ↔ Yopougon Lubafrique,728,,SOTRA,mon bus/Navette,bus
+Line:relation:10442364,gbaka : Yopougon Sideci IGES ↔ Adjamé Liberté,,,divers,Gbaka d'Adjamé,bus
+Line:relation:10459360,gbaka : Yopougon Niangon Terminus 27 ↔ Adjamé mosquée,,,divers,Gbaka d'Adjamé,bus
+Line:relation:10459458,gbaka : Gare Kobenan Agban ↔ Yopougon marché Bagnon,,,divers,Gbaka d'Adjamé,bus
+Line:relation:10460517,gbaka : BC ↔ Adjamé Nouvelle Gare,,,divers,Gbaka d'Abobo,bus
+Line:relation:10460657,gbaka : Abobo Gare ↔ Belle ville,,,divers,Gbaka d'Adjamé,bus
+Line:relation:10460968,gbaka : Abobo Gare ↔ Gare d'Anyama,,,divers,Gbaka d'Adjamé,bus
+Line:relation:10461146,gbaka : Abobo Gare ↔ Angre Petro Ivoire,,,divers,Gbaka d'Adjamé,bus
+Line:relation:10461307,gbaka : Carrefour JAUG ↔ Adjamé Nouvelle Gare,,,divers,Gbaka d'Abobo,bus
+Line:relation:10461959,gbaka : Yopougon lokoa ↔ Adjame mosquée,,,divers,Gbaka d'Adjamé,bus
+Line:relation:10464893,bateau-bus A : Yopougon (Abobo Doumé) ↔ Plateau,A,,Citrans,Aqualines,ferry
+Line:relation:10465035,bateau-bus A : Abatta ↔ Plateau,A,,Citrans,Aqualines,ferry
+Line:relation:10474495,gbaka : Gare Kobenan Agban ↔ Yopougon koweit,,,divers,Gbaka d'Adjamé,bus
+Line:relation:10474747,gbaka : Gare kobenan Agban ↔ Yopougon Lubafrique,,,divers,Gbaka d'Adjamé,bus
+Line:relation:10476005,gbaka Doublons de la ligne 187 : Adjamé gare en haut ↔ Akouedo Attié,Doublons de la ligne 187,,divers,Gbaka d'Adjamé,bus
+Line:relation:10476178,gbaka : Gare Kobenan Agban ↔ Bingerville,,,divers,Gbaka d'Adjamé,bus
