@@ -189,5 +189,12 @@ Line:relation:10464893,bateau-bus A : Yopougon (Abobo Doumé) ↔ Plateau,A,,Cit
 Line:relation:10465035,bateau-bus A : Abatta ↔ Plateau,A,,Citrans,Aqualines,ferry
 Line:relation:10474495,gbaka : Gare Kobenan Agban ↔ Yopougon koweit,,,divers,Gbaka d'Adjamé,bus
 Line:relation:10474747,gbaka : Gare kobenan Agban ↔ Yopougon Lubafrique,,,divers,Gbaka d'Adjamé,bus
-Line:relation:10476005,gbaka Doublons de la ligne 187 : Adjamé gare en haut ↔ Akouedo Attié,Doublons de la ligne 187,,divers,Gbaka d'Adjamé,bus
+Line:relation:10476005,gbaka : Adjamé gare en haut ↔ Akouedo Attié,,,divers,Gbaka d'Adjamé,bus
 Line:relation:10476178,gbaka : Gare Kobenan Agban ↔ Bingerville,,,divers,Gbaka d'Adjamé,bus
+Line:relation:10476298,gbaka : Adjame Agban ↔ Yopougon boassi,,,divers,Gbaka d'Adjamé,bus
+Line:relation:10480217,gbaka : Adjamé Agban ↔ Yopougon Camp Militaire,,,divers,Gbaka d'Adjamé,bus
+Line:relation:10480360,gbaka : Gare Kobenan Agban ↔ Yopougon Niangon Terminus 27,,,divers,Gbaka d'Adjamé,bus
+Line:relation:10480446,gbaka : Gare Kobenan Agban ↔ Yopougon Carrefour Académie,,,divers,Gbaka d'Adjamé,bus
+Line:relation:10480461,gbaka : Yopougon Carrefour Académie ↔ Adjamé mosquée,,,divers,Gbaka d'Adjamé,bus
+Line:relation:10480573,gbaka : Adjamé Agban ↔ Port-Bouët Vridi,,,divers,Gbaka d'Adjamé,bus
+Line:relation:10521453,gbaka : Adjame Agban ↔ Bingerville,,,divers,Gbaka d'Adjamé,bus
