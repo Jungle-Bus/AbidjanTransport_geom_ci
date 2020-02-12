@@ -1,6 +1,6 @@
 line_id,name,code,colour,operator,network,mode,frequency,opening_hours,frequency_exceptions
 Line:relation:5985016,bus 06 : Terminus Aéroport ↔ Gare Sud Plateau,06,,SOTRA,monbus,bus,00:50,"Mo-Su,PH 05:00-22:00","60 @ (Mo-Su,PH 05:00-07:00); 60 @ (Mo-Su,PH 07:00-09:00); 36 @ (Mo-Su,PH 17:00-20:00); 60 @ (Mo-Su,PH 20:00-22:00)"
-Line:relation:9589447,Bus 15 : Gare SOTRA Abobo Sogefiha ↔ Gare Sud Plateau,15,,SOTRA,monbus,bus,25,"Mo-Su,PH 05:43-21:00","30 @ (Mo-Su,PH 05:00-07:00); 40 @ (Mo-Su,PH 07:00-09:00); 26 @ (Mo-Su,PH 17:00-20:00); 60 @ (Mo-Su,PH 20:00-22:00)"
+Line:relation:9589447,Bus 15 : Gare SOTRA Abobo Sogefiha ↔ Gare Sud Plateau,15,,SOTRA,monbus,bus,25,"Mo-Su,PH 05:43-21:00","30 @ (Mo-Su,PH 05:43-07:00); 40 @ (Mo-Su,PH 07:00-09:00); 26 @ (Mo-Su,PH 17:00-20:00); 60 @ (Mo-Su,PH 20:00-21:00)"
 Line:relation:10087961,bus 91 : Gare Sud ↔ Liberté Adjamé,91,,SOTRA,monbus,bus,01:00,"Mo-Su,PH 05:30-22:00",
 Line:relation:10173635,bus 37: Gare Sud↔Yopougon Camp Militaire,37,,SOTRA,monbus,bus,37,"Mo-Su,PH 05:00-22:00","60 @ (Mo-Su,PH 05:00-07:00); 40 @ (Mo-Su,PH 07:00-09:00); 60 @ (Mo-Su,PH 17:00-20:00); 60 @ (Mo-Su,PH 20:00-22:00)"
 Line:relation:10179006,gbaka : Adjamé Liberté ↔ Treichville Gare de Bassam,,,divers,Gbaka d'Adjamé,bus,,"Mo-Su,PH 05:00-22:00",
@@ -19,8 +19,8 @@ Line:relation:10190159,bus 14 : Gare Marcory ↔ Gare Williamsville,14,,SOTRA,mo
 Line:relation:10190354,Bus 64 : Gare Nord SOTRA Adjamé ↔ Gare Blockauss,64,,SOTRA,monbus,bus,01:00,"Mo-Su,PH 05:00-22:00","40 @ (Mo-Su,PH 05:00-07:00); 40 @ (Mo-Su,PH 07:00-09:00); 60 @ (Mo-Su,PH 17:00-20:00); 120 @ (Mo-Su,PH 20:00-22:00)"
 Line:relation:10191924,Bus 49 : Gare SOTRA Abobo Sogefiha ↔ Gare Campus Cocody,49,,SOTRA,monbus,bus,00:30,"Mo-Su,PH 05:00-22:00",
 Line:relation:10192143,bus 02 : Gare Marcory ↔ Cité Fairmont,02,,SOTRA,monbus,bus,01:00,"Mo-Su,PH 05:00-22:00",
-Line:relation:10192153,bus 20 : Gare Sud ↔ Yopougon Micao,20,,SOTRA,monbus,bus,20,"Mo-Su,PH 05:55-21:00","30 @ (Mo-Su,PH 05:00-07:00); 20 @ (Mo-Su,PH 07:00-09:00); 26 @ (Mo-Su,PH 17:00-20:00); 120 @ (Mo-Su,PH 20:00-22:00)"
-Line:relation:10199868,bus 39 : Gare Sud ↔ Niangon Sud à droite,39,,SOTRA,monbus,bus,30,"Mo-Su,PH 06:10-21:00","60 @ (Mo-Su,PH 05:00-07:00); 60 @ (Mo-Su,PH 07:00-09:00); 26 @ (Mo-Su,PH 17:00-20:00); 60 @ (Mo-Su,PH 20:00-22:00)"
+Line:relation:10192153,bus 20 : Gare Sud ↔ Yopougon Micao,20,,SOTRA,monbus,bus,20,"Mo-Su,PH 05:55-21:00","30 @ (Mo-Su,PH 05:55-07:00); 20 @ (Mo-Su,PH 07:00-09:00); 26 @ (Mo-Su,PH 17:00-20:00); 120 @ (Mo-Su,PH 20:00-21:00)"
+Line:relation:10199868,bus 39 : Gare Sud ↔ Niangon Sud à droite,39,,SOTRA,monbus,bus,30,"Mo-Su,PH 06:10-21:00","60 @ (Mo-Su,PH 06:10-07:00); 60 @ (Mo-Su,PH 07:00-09:00); 26 @ (Mo-Su,PH 17:00-20:00); 60 @ (Mo-Su,PH 20:00-21:00)"
 Line:relation:10200077,bus 85 : Yopougon Kouté / Phalène ↔ Campus Cocody,85,,SOTRA,monbus,bus,00:30,"Mo-Su,PH 05:00-22:00",
 Line:relation:10201145,bus 07: Gare Marcory ↔ Terminus Cité Vridi,07,,SOTRA,monbus,bus,01:00,"Mo-Su,PH 05:00-22:00",
 Line:relation:10206110,bus 54 : Gendarmerie Abobo ↔ Cité Administrative,54,,SOTRA,monbus,bus,00:20,"Mo-Su,PH 05:00-22:00",
@@ -30,10 +30,10 @@ Line:relation:10211372,bus 84 : Gare Nord ↔ Blockauss,84,,SOTRA,monbus,bus,01:
 Line:relation:10211655,bus 206 : Hôtel de ville ↔ Yopougon Kouté / Saint-André,206,,SOTRA,Express,bus,00:30,"Mo-Su,PH 05:00-22:00",
 Line:relation:10211824,bus 90 : Blockauss ↔ CHU Angré,90,,SOTRA,monbus,bus,01:00,"Mo-Su,PH 05:00-22:00",
 Line:relation:10212284,bus 47 : Abobo Doumé ↔ Yopougon Attié,47,,SOTRA,monbus,bus,00:40,"Mo-Su,PH 05:00-22:00",
-Line:relation:10212293,bus 27 : Sud Gare ↔ Niangon Sud à gauche,27,,SOTRA,monbus,bus,30,"Mo-Su,PH 06:05-21:00","40 @ (Mo-Su,PH 05:00-07:00); 40 @ (Mo-Su,PH 07:00-09:00); 20 @ (Mo-Su,PH 17:00-20:00); 40 @ (Mo-Su,PH 20:00-22:00)"
-Line:relation:10212448,bus 30 : Gare Sud ↔ Yopougon Kouté,30,,SOTRA,monbus,bus,30,"Mo-Su,PH 05:49-21:00","40 @ (Mo-Su,PH 05:00-07:00); 40 @ (Mo-Su,PH 07:00-09:00); 45 @ (Mo-Su,PH 17:00-20:00); 60 @ (Mo-Su,PH 20:00-22:00)"
+Line:relation:10212293,bus 27 : Sud Gare ↔ Niangon Sud à gauche,27,,SOTRA,monbus,bus,30,"Mo-Su,PH 06:05-21:00","40 @ (Mo-Su,PH 06:05-07:00); 40 @ (Mo-Su,PH 07:00-09:00); 20 @ (Mo-Su,PH 17:00-20:00); 40 @ (Mo-Su,PH 20:00-21:00)"
+Line:relation:10212448,bus 30 : Gare Sud ↔ Yopougon Kouté,30,,SOTRA,monbus,bus,30,"Mo-Su,PH 05:49-21:00","40 @ (Mo-Su,PH 05:49-07:00); 40 @ (Mo-Su,PH 07:00-09:00); 45 @ (Mo-Su,PH 17:00-20:00); 60 @ (Mo-Su,PH 20:00-21:00)"
 Line:relation:10213167,bus 94 : Blockauss ↔ Gare Marcory,94,,SOTRA,Wibus,bus,01:00,"Mo-Su,PH 05:00-22:00",
-Line:relation:10213431,bus 40 : Yopougon Kouté ↔ Gare Sud,40,,SOTRA,monbus,bus,20,"Mo-Su,PH 05:43-20:00","40 @ (Mo-Su,PH 05:00-07:00); 30 @ (Mo-Su,PH 07:00-09:00); 23 @ (Mo-Su,PH 17:00-20:00); 120 @ (Mo-Su,PH 20:00-22:00)"
+Line:relation:10213431,bus 40 : Yopougon Kouté ↔ Gare Sud,40,,SOTRA,monbus,bus,20,"Mo-Su,PH 05:43-22:00","40 @ (Mo-Su,PH 05:43-07:00); 30 @ (Mo-Su,PH 07:00-09:00); 23 @ (Mo-Su,PH 17:00-20:00); 120 @ (Mo-Su,PH 20:00-22:00)"
 Line:relation:10215245,bus 80 : Chu d'Angré ↔ Abobo Biabou,80,,SOTRA,monbus / Navette,bus,00:30,"Mo-Su,PH 05:00-22:00",
 Line:relation:10215413,bus 720 : Yopougon Lavage Saint André ↔ Rond-point Palmeraie,720,,SOTRA,monbus / Navette,bus,00:30,"Mo-Su,PH 05:00-22:00",
 Line:relation:10215677,bus 60 : Mairie d'Abobo ↔ Mairie d'Anyama,60,,SOTRA,monbus,bus,00:30,"Mo-Su,PH 05:00-22:00",
