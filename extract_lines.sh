@@ -13,6 +13,8 @@ ogr2ogr output/lines.geojson -dialect sqlite -sql "SELECT *, GeomFromText(shape)
 
 cat lines_with_shapes.csv |xsv select '!shape' | xsv sort -s code | xsv sort -s network |xsv sort -s operator  > output/lines.csv
 
+cat osm-transit-extractor_routes.csv |xsv search -s mode 'ferry|bus' |xsv select '!shape' > routes.csv
+
 cp osm-transit-extractor_stop_points.csv output/stops.csv
 
 ogr2ogr output/stops.geojson -dialect sqlite -sql "SELECT *, GeomFromText('POINT(' || lon || ' ' || lat || ')') FROM stops" output/stops.csv -a_srs "WGS84"

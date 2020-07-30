@@ -8,6 +8,7 @@ before_install:
   - export PATH=$PATH:$PWD/
   - xsv --version
   - osm_transit_extractor --version
+  - pip install requests
   # install gdal
   - sudo add-apt-repository --yes ppa:ubuntugis/ppa
   - sudo apt-get --quiet update
@@ -18,6 +19,7 @@ script:
   - ./extract_lines.sh
   #fail if less than 2 lines
   - test `cat output/lines.csv | xsv count` -ge 2
+  - python validator.py > output/qa.md
 
 deploy:
   provider: pages
