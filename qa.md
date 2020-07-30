@@ -10,7 +10,8 @@
 
 ## Liste des erreurs
 
-####name
+#### name
+
 clé d’attribut : “name”=“woro woro : Abobo Azur Mobil ↔ 8ème Tranche CNPS en haut” ⇒ “Abréviation correcte : 2e, 3e, 4e...” (règle “ks_vr”)
 
 Objet(s): 
@@ -22,7 +23,8 @@ Objet(s):
 
     
 
-####L’arrêt ou la plateforme est trop éloigné du trajet de cette route
+#### L’arrêt ou la plateforme est trop éloigné du trajet de cette route
+
 
 
 Objet(s): 
