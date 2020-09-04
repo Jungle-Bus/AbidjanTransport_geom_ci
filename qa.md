@@ -1,6 +1,7 @@
 # Analyse qualité pour Abidjan
 - [Voir la documentation](https://wiki.openstreetmap.org/wiki/FR:WikiProject_C%C3%B4te_d'Ivoire/Transport_Abidjan)
 - [Explorer les lignes](https://jungle-bus.github.io/unroll/?project=Abidjan)
+- [Explorer les erreurs sur Osmose](http://osmose.openstreetmap.fr/fr/errors/?country=ivory_coast&item=9014,1260,2140)
 
 
 ## Erreurs
@@ -14,7 +15,7 @@
 
 network sont différents
 
-Objet(s): 
+Objet(s):
 
 - [11538775](http://localhost:8111/load_object?relation_members=true&objects=r11538775)
 - [11569013](http://localhost:8111/load_object?relation_members=true&objects=r11569013)
@@ -25,7 +26,7 @@ Objet(s):
 
 
 
-Objet(s): 
+Objet(s):
 
 - [10178669](http://localhost:8111/load_object?relation_members=true&objects=r10178669)
 - [10179434](http://localhost:8111/load_object?relation_members=true&objects=r10179434)
@@ -37,7 +38,7 @@ Objet(s):
 
 
 
-Objet(s): 
+Objet(s):
 
 - [10184954](http://localhost:8111/load_object?relation_members=true&objects=r10184954)
 - [10185168](http://localhost:8111/load_object?relation_members=true&objects=r10185168)
