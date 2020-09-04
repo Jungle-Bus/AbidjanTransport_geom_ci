@@ -15,6 +15,7 @@ import csv
 project_name = "Abidjan"
 project_unroll_url = "https://jungle-bus.github.io/unroll/?project=Abidjan"
 project_home = "https://wiki.openstreetmap.org/wiki/FR:WikiProject_C%C3%B4te_d'Ivoire/Transport_Abidjan"
+project_osmose_url = "http://osmose.openstreetmap.fr/fr/errors/?country=ivory_coast&item=9014,1260,2140"
 route_master_file = "output/lines.csv"
 route_file = "routes.csv"
 
@@ -72,6 +73,8 @@ print("# Analyse qualité pour {}".format(project_name))
 
 print("- [Voir la documentation]({})".format(project_home))
 print("- [Explorer les lignes]({})".format(project_unroll_url))
+print("- [Explorer les erreurs sur Osmose]({})".format(project_osmose_url))
+
 print("")
 print("")
 print("## Erreurs")
@@ -87,15 +90,17 @@ for error in errors.values():
     subtitle = ""
     if error["subtitle"]:
         subtitle = error["subtitle"]["auto"]
-    object_list = ["- [{}]({}r{})\n".format(elem,josm_url,elem) for elem in error["objects"]]
+    if len(error["objects"]) > 4:
+        object_list = ["- [{}]({}r{})\n".format(error["objects"][0],josm_url,error["objects"][0]), "- [{}]({}r{})\n".format(error["objects"][1],josm_url,error["objects"][1]), "- et {} autres erreurs de ce type\n".format(len(error["objects"]) -2)]
+    else:
+        object_list = ["- [{}]({}r{})\n".format(elem,josm_url,elem) for elem in error["objects"]]
 
     print("""
 #### {}
 
 {}
 
-Objet(s): 
+Objet(s):
 
 {}
     """.format(title, subtitle, "".join(object_list)))
-
