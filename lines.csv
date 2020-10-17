@@ -189,6 +189,8 @@ Line:relation:11702874,gbaka : Yopougon Palais ↔ Beago Wolosso,,,divers,Gbaka 
 Line:relation:11702965,gbaka : Yopougon Koweit ↔ Zone Industrielle,,,divers,Gbaka de Yopougon,bus,00:20,"Mo-Su,PH 05:00-22:00",
 Line:relation:11703071,gbaka : Zone Industrielle ↔ Gesco,,,divers,Gbaka de Yopougon,bus,00:20,"Mo-Su,PH 05:00-22:00",
 Line:relation:11703128,gbaka : Yopougon Locodjro Marine ↔ Attecoubé Garage,,,divers,Gbaka de Yopougon,bus,00:20,"Mo-Su,PH 05:00-22:00",
+Line:relation:11758498,gbaka : Yopougon IGES ↔ Adjame mosquée en bas du pont,,,divers,Gbaka de Yopougon,bus,10,"Mo-Su,PH 05:00-22:00",
+Line:relation:11758556,gbaka : Adjamé Texaco ↔ Yopougon Lubafrique,,,divers,Gbaka de Yopougon,bus,30,"Mo-Su,PH 05:00-22:00",
 Line:relation:10651885,woro woro : Abobo Gare ↔ BC,,,divers,Woro-woro d'Abobo,bus,,"Mo-Su,PH 05:00-22:00",
 Line:relation:10651976,woro woro : Abobo Gendarmerie ↔ Ndotre,,,divers,Woro-woro d'Abobo,bus,,"Mo-Su,PH 05:00-22:00",
 Line:relation:10653426,woro woro : Abobo Gare ↔ Biabou,,,divers,Woro-woro d'Abobo,bus,,"Mo-Su,PH 05:00-22:00",
