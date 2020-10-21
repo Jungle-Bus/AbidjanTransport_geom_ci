@@ -60,7 +60,7 @@ Line:relation:10199868,bus 39 : Gare Sud ↔ Niangon Sud à droite,39,,SOTRA,mon
 Line:relation:10213431,bus 40 : Yopougon Kouté ↔ Gare Sud,40,,SOTRA,monbus,bus,20,"Mo-Su,PH 05:43-22:00","40 @ (Mo-Su,PH 05:43-07:00); 30 @ (Mo-Su,PH 07:00-09:00); 23 @ (Mo-Su,PH 17:00-20:00); 120 @ (Mo-Su,PH 20:00-22:00)"
 Line:relation:10265924,bus 41 : Adjamé Liberté ↔ M'pouto,41,,SOTRA,monbus,bus,96,"Mo-Su,PH 09:00-17:00",
 Line:relation:10206969,bus 42 : Abobo Doumé ↔ Yopougon Sideci,42,,SOTRA,monbus,bus,00:30,"Mo-Su,PH 05:00-22:00",
-Line:relation:10220180,bus 43 : Yopougon Kouté ↔ Gare Nord,43,,SOTRA,monbus,bus,00:15,"Mo-Su,PH 05:00-22:00","60 @ (Mo-Su,PH 05:00-07:00); 40 @ (Mo-Su,PH 07:00-09:00); 23 @ (Mo-Su,PH 17:00-20:00); 40 @ (Mo-Su,PH 20:00-22:00)"
+Line:relation:10220180,bus 43 : Yopougon Kouté ↔ Gare Nord,43,,SOTRA,monbus,bus,22,"Mo-Su,PH 05:00-22:00","60 @ (Mo-Su,PH 05:00-07:00); 40 @ (Mo-Su,PH 07:00-09:00); 23 @ (Mo-Su,PH 17:00-20:00); 40 @ (Mo-Su,PH 20:00-22:00)"
 Line:relation:10220245,bus 44 : Abobo Doumé ↔ Yopougon Cité Verte,44,,SOTRA,monbus,bus,00:50,"Mo-Su,PH 05:00-22:00",
 Line:relation:10187867,Bus 45 : Gare Nord SOTRA Adjamé ↔ Terminus 45 Abobo Escalier,45,,SOTRA,monbus,bus,18,"Mo-Su,PH 05:00-22:00","30 @ (Mo-Su,PH 05:00-07:00); 13 @ (Mo-Su,PH 07:00-09:00); 11 @ (Mo-Su,PH 17:00-20:00); 30 @ (Mo-Su,PH 20:00-22:00)"
 Line:relation:10256311,bus 46 : Yopougon Sideci ↔ Plateau Cité Administrative,46,,SOTRA,monbus,bus,00:35,"Mo-Su,PH 05:00-22:00",
@@ -149,7 +149,7 @@ Line:relation:10410754,gbaka : Adjamé Liberté ↔ Bingerville,,,divers,Gbaka d
 Line:relation:10411047,gbaka : Yopougon gare Gesco ↔ Adjamé Agban,,,divers,Gbaka d'Adjamé,bus,,"Mo-Su,PH 05:00-22:00",
 Line:relation:10430127,gbaka : Abobo Gare ↔ Ndotre,,,divers,Gbaka d'Adjamé,bus,,"Mo-Su,PH 05:00-22:00",
 Line:relation:10430627,gbaka : Abobo Gendarmerie ↔ Yopougon Carrefour Zone,,,divers,Gbaka d'Adjamé,bus,,"Mo-Su,PH 05:00-22:00",
-Line:relation:10442364,gbaka : Yopougon Sideci IGES ↔ Adjamé Liberté,,,divers,Gbaka d'Adjamé,bus,,"Mo-Su,PH 05:00-22:00",
+Line:relation:10442364,gbaka : Yopougon Sideci IGES ↔ Adjamé Liberté,,,divers,Gbaka d'Adjamé,bus,18,"Mo-Su,PH 05:00-22:00",
 Line:relation:10459360,gbaka : Yopougon Niangon Terminus 27 ↔ Adjamé mosquée,,,divers,Gbaka d'Adjamé,bus,,"Mo-Su,PH 05:00-22:00",
 Line:relation:10459458,gbaka : Gare Kobenan Agban ↔ Yopougon marché Bagnon,,,divers,Gbaka d'Adjamé,bus,00:20,"Mo-Su,PH 05:00-22:00",
 Line:relation:10460657,gbaka : Abobo Gare ↔ Belle ville,,,divers,Gbaka d'Adjamé,bus,,"Mo-Su,PH 05:00-22:00",
