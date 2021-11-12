@@ -129,6 +129,7 @@ Line:relation:10461307,gbaka : Carrefour JAUG ↔ Adjamé Nouvelle Gare,,,divers
 Line:relation:11600997,gbaka : Lycée Moderne Abobo ↔ Adjamé Liberté,,,divers,Gbaka d'Abobo,bus,00:20,"Mo-Su,PH 05:00-22:00",
 Line:relation:11604247,gbaka : Abobo Samaké ↔ Biabou,,,divers,Gbaka d'Abobo,bus,00:20,"Mo-Su,PH 05:00-22:00",
 Line:relation:11702772,gbaka : Abobo Marché ↔ Biabou,,,divers,Gbaka d'Abobo,bus,00:20,"Mo-Su,PH 05:00-22:00",
+Line:relation:13421219,gbaka : Belle Cité ↔ Belle Cité en Bas,,,divers,Gbaka d'Abobo,bus,,"Mo-Su,PH 05:00-22:00",
 Line:relation:10179006,gbaka : Adjamé Liberté ↔ Treichville Gare de Bassam,,,divers,Gbaka d'Adjamé,bus,,"Mo-Su,PH 05:00-22:00",
 Line:relation:10185169,gbaka : Adjamé gare en haut ↔ Cocody Riviera M'badon,,,divers,Gbaka d'Adjamé,bus,10,"Mo-Su,PH 05:00-20:00","60 @ (Mo-Su,PH 05:00-07:00); 10 @ (Mo-Su,PH 07:00-09:00); 10 @ (Mo-Su,PH 17:00-20:00)"
 Line:relation:10185403,gbaka : Adjamé gare en haut ↔ Cocody Attoban Camp,,,divers,Gbaka d'Adjamé,bus,30,"Mo-Su,PH 05:00-22:00",
@@ -142,7 +143,7 @@ Line:relation:10406547,gbaka : Yopougon Niangon Terminus 27 ↔ Adjamé Liberté
 Line:relation:10406621,gbaka : Adjamé Liberté ↔ Koumassi,,,divers,Gbaka d'Adjamé,bus,,"Mo-Su,PH 05:00-22:00",
 Line:relation:10406865,gbaka : Adjamé Liberté ↔ Yopougon Palais,,,divers,Gbaka d'Adjamé,bus,2,"Mo-Su,PH 09:00-22:00","2 @ (Mo-Su,PH 17:00-20:00); 9 @ (Mo-Su,PH 20:00-22:00)"
 Line:relation:10407729,gbaka : Adjamé Texaco ↔ Yopougon Camp Militaire,,,divers,Gbaka d'Adjamé,bus,27,"Mo-Su,PH 07:00-17:00","60 @ (Mo-Su,PH 07:00-09:00)"
-Line:relation:10407850,gbaka : Yopougon Carrefour Académie ↔ Adjamé Liberté,,,divers,Gbaka d'Adjamé,bus,32,"Mo-Su,PH 05:00-17:00","120 @ (Mo-Su,PH 05:00-07:00); 120 @ (Mo-Su,PH 07:00-09:00)"
+Line:relation:10407850,gbaka : Yopougon Carrefour Académie ↔ Adjamé Texaco,,,divers,Gbaka d'Adjamé,bus,32,"Mo-Su,PH 05:00-17:00","120 @ (Mo-Su,PH 05:00-07:00); 120 @ (Mo-Su,PH 07:00-09:00)"
 Line:relation:10409494,gbaka : Adjamé Renault ↔ Abobo Gare Mairie,,,divers,Gbaka d'Adjamé,bus,,"Mo-Su,PH 05:00-22:00",
 Line:relation:10409714,gbaka : Adjamé Liberté ↔ Carrefour Lokoa,,,divers,Gbaka d'Adjamé,bus,4,"Mo-Su,PH 05:00-22:00","40 @ (Mo-Su,PH 05:00-07:00); 24 @ (Mo-Su,PH 07:00-09:00); 5 @ (Mo-Su,PH 17:00-20:00); 40 @ (Mo-Su,PH 20:00-22:00)"
 Line:relation:10410754,gbaka : Adjamé Liberté ↔ Bingerville,,,divers,Gbaka d'Adjamé,bus,13,"Mo-Su,PH 07:00-22:00","15 @ (Mo-Su,PH 07:00-09:00); 5 @ (Mo-Su,PH 17:00-20:00); 15 @ (Mo-Su,PH 20:00-22:00)"
@@ -191,6 +192,7 @@ Line:relation:11703071,gbaka : Zone Industrielle ↔ Gesco,,,divers,Gbaka de Yop
 Line:relation:11703128,gbaka : Yopougon Locodjro Marine ↔ Attecoubé Garage,,,divers,Gbaka de Yopougon,bus,00:20,"Mo-Su,PH 05:00-22:00",
 Line:relation:11758498,gbaka : Yopougon IGES ↔ Adjame mosquée en bas du pont,,,divers,Gbaka de Yopougon,bus,15,"Mo-Su,PH 05:00-20:00","120 @ (Mo-Su,PH 05:00-07:00); 36 @ (Mo-Su,PH 17:00-20:00)"
 Line:relation:11758556,gbaka : Adjamé Texaco ↔ Yopougon Lubafrique,,,divers,Gbaka de Yopougon,bus,32,"Mo-Su,PH 07:00-17:00","120 @ (Mo-Su,PH 07:00-09:00)"
+Line:relation:13411244,gbaka : Yopougon Siporex ↔ Yopougon Micao,,,divers,Gbaka de yopougon,bus,25,"Mo-Su,PH 05:00-22:00",
 Line:relation:10651885,woro woro : Abobo Gare ↔ BC,,,divers,Woro-woro d'Abobo,bus,,"Mo-Su,PH 05:00-22:00",
 Line:relation:10651976,woro woro : Abobo Gendarmerie ↔ Ndotre,,,divers,Woro-woro d'Abobo,bus,,"Mo-Su,PH 05:00-22:00",
 Line:relation:10653426,woro woro : Abobo Gare ↔ Biabou,,,divers,Woro-woro d'Abobo,bus,,"Mo-Su,PH 05:00-22:00",
@@ -212,6 +214,9 @@ Line:relation:11597456,woro woro : Abobo Marché ↔ Abobo Baoulé,,,divers,Woro
 Line:relation:11600234,woro woro : Abobo Gendarmerie ↔ Houphouet-Boigny,,,divers,Woro-woro d'Abobo,bus,00:10,"Mo-Su,PH 05:00-22:00",
 Line:relation:11600299,woro woro : Abobo Samaké ↔ Abobo Baoulé,,,divers,Woro-woro d'Abobo,bus,00:10,"Mo-Su,PH 05:00-22:00",
 Line:relation:11600482,woro woro : Carrefour Kennedy ↔ Mosquée Ado,,,divers,Woro-woro d'Abobo,bus,00:10,"Mo-Su,PH 05:00-22:00",
+Line:relation:13421393,woro woro : Lycée Moderne d'Abobo ↔ Avocatier Carrefour Niamkey,,,divers,Woro-woro d'Abobo,bus,,"Mo-Su,PH 05:00-22:00",
+Line:relation:13423262,Woro-woro : Lycée Moderne d'Abobo ↔ Belle Cité,,,divers,Woro-woro d'Abobo,bus,,"Mo-Su,PH 05:00-22:00",
+Line:relation:13423303,Woro-woro : Gare d'Abobo ↔ Carrefour Angré,,,divers,Woro-woro d'Abobo,bus,,"Mo-Su,PH 05:00-22:00",
 Line:relation:10413253,woro woro : Adjamé Liberté ↔ Adjamé Mairie Dallas,,,divers,Woro-woro d'Adjamé,bus,,"Mo-Su,PH 05:00-22:00",
 Line:relation:11592064,woro woro : Adjamé Liberté ↔ Saint Michel,,,divers,Woro-woro d'Adjamé,bus,60,"Mo-Su,PH 05:00-22:00",
 Line:relation:11597021,woro woro : Mossikro ↔ Abobo Doumé Santé,,,divers,Woro-woro d'Attecoubé,bus,5,"Mo-Su,PH 05:00-22:00",
