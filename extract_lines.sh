@@ -18,3 +18,8 @@ cat osm-transit-extractor_routes.csv |xsv search -s mode 'ferry|bus' |xsv select
 cp osm-transit-extractor_stop_points.csv output/stops.csv
 
 ogr2ogr output/stops.geojson -dialect sqlite -sql "SELECT *, GeomFromText('POINT(' || lon || ' ' || lat || ')') FROM stops" output/stops.csv -a_srs "WGS84"
+
+cd bifidus_cli
+
+poetry run python bifidus_cli.py -l ../output/lines.csv -r ../routes.csv -u ../bifidus_config.csv -n AbidjanTransport > ../output/qa.md
+
