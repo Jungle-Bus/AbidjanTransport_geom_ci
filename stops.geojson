@@ -3938,6 +3938,8 @@
 { "type": "Feature", "properties": { "stop_point_id": "StopPoint:node:9337342514", "lat": "5.3339716", "lon": "-4.0908583", "name": "Petroci", "first_stop_area_id": "" }, "geometry": { "type": "Point", "coordinates": [ -4.0908583, 5.3339716 ] } },
 { "type": "Feature", "properties": { "stop_point_id": "StopPoint:node:9337342515", "lat": "5.3577167", "lon": "-4.085242399999999", "name": "Carrefour Coris Bank", "first_stop_area_id": "" }, "geometry": { "type": "Point", "coordinates": [ -4.0852424, 5.3577167 ] } },
 { "type": "Feature", "properties": { "stop_point_id": "StopPoint:node:9340348210", "lat": "5.423453299999999", "lon": "-3.9977568", "name": "Mosquée Ado Kenedy", "first_stop_area_id": "" }, "geometry": { "type": "Point", "coordinates": [ -3.9977568, 5.4234533 ] } },
-{ "type": "Feature", "properties": { "stop_point_id": "StopPoint:node:9358064581", "lat": "5.4179568", "lon": "-3.9909964999999996", "name": "Carrefour Diamant", "first_stop_area_id": "" }, "geometry": { "type": "Point", "coordinates": [ -3.9909965, 5.4179568 ] } }
+{ "type": "Feature", "properties": { "stop_point_id": "StopPoint:node:9358064581", "lat": "5.4179568", "lon": "-3.9909964999999996", "name": "Carrefour Diamant", "first_stop_area_id": "" }, "geometry": { "type": "Point", "coordinates": [ -3.9909965, 5.4179568 ] } },
+{ "type": "Feature", "properties": { "stop_point_id": "StopPoint:node:9732345053", "lat": "7.655422199999999", "lon": "-5.0245321", "name": "Arrêt de bus 307", "first_stop_area_id": "" }, "geometry": { "type": "Point", "coordinates": [ -5.0245321, 7.6554222 ] } },
+{ "type": "Feature", "properties": { "stop_point_id": "StopPoint:node:9732828107", "lat": "7.648068299999999", "lon": "-5.027800099999999", "name": "Arrêt de bus 303 corridor Sud", "first_stop_area_id": "" }, "geometry": { "type": "Point", "coordinates": [ -5.0278001, 7.6480683 ] } }
 ]
 }
